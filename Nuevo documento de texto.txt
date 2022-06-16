@@ -1,0 +1,38 @@
+let baseDatosPizzas = [
+    {
+        id: pizza-uno,
+        nombre: "Pizza 1",
+        precio: 1.50,
+        imagen: "./img/pizza1.png"
+    },
+    {
+        id: pizza-dos,
+        nombre: 'Pizza 2',
+        precio: 2.50,
+        imagen: './img/pizza2.png'
+    },
+    {
+        id: pizza-3,
+        nombre: 'Pizza 3',
+        precio: 3.50,
+        imagen: './img/pizza3.png'
+    },
+    {
+        id: pizza-4,
+        nombre: 'Pizza 4',
+        precio: 4.50,
+        imagen: './img/pizza4.png'
+    }
+    {
+        id: pizza-5,
+        nombre: 'Pizza 5',
+        precio: 5.50,
+        imagen: './img/pizza5.png'
+    }, 
+    {
+        id: pizza-6,
+        nombre: 'Pizza 6',
+        precio: 6.50,
+        imagen: './img/pizza6.png'
+    }
+]
